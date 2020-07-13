@@ -11,6 +11,7 @@
 }
 .head {
   background-color: blue;
+    text-align: center;
 } 
 .nav li {
   display:inline;
