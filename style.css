@@ -10,9 +10,9 @@
   top: 0;
 }
 .header {
-  padding: 60px;
+  padding: 40px;
   text-align: center;
-  background: blue;
+  background: #FF7F50;
   color: white;
   font-size: 30px;
 }
