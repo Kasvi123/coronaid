@@ -1,1 +1,1 @@
-#http://gotocovid.github.io
+#gotocovid
