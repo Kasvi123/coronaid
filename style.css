@@ -19,6 +19,8 @@
 .nav li {
   display:inline;
     position: sticky;
+    border-right:1px solid #bbb;
+  border-left:1px solid #b
 }
 
 li {
