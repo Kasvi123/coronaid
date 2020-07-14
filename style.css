@@ -10,11 +10,11 @@
   top: 0;
 }
 .header {
-  padding: 15px;
+  padding: 10px;
   text-align: center;
   background: orange;
   color: black;
-  font-size: 40px;
+  font-size: 30px;
 }
 .nav li {
   display:inline;
